@@ -3,3 +3,5 @@
 - Высокая точность поиска
 - Высокая скорость поиска
 - Низкая цена
+
+![image](https://github.com/user-attachments/assets/a31649aa-2259-4764-bbbd-6d9eef676eea)
